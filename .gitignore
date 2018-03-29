@@ -1,0 +1,6 @@
+logs/
+*.pdf
+src/build/
+src/logdir/
+*.uff
+*.pb
