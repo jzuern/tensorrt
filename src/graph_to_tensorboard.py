@@ -7,7 +7,7 @@ from tensorflow.core.framework import graph_pb2
 from tensorflow.python.platform import gfile
 
 
-graph_filename ='mrt_graph.pb'
+graph_filename ='mrt_graph_1.pb'
 
 
 # write tf graph to logdir for visualization in tensorboard
